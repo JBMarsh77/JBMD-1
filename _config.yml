@@ -1,11 +1,11 @@
-title: Website Title
+title: Website Title-JBMD-1
 
 description: >
-  Website Description
+  My first website with gibhub
 
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Joan Marsh
+  email: jbm.Marsh@gmail.com
 
 nav_pages:
   - about.md
